@@ -1,4 +1,4 @@
-# 🏢 BeneTech Solutions
+#  BeneTech Solutions
 
 ## Enterprise Infrastructure Planning for a Startup Company
 
@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project focuses on planning the initial IT infrastructure of **BeneTech Solutions**, a fictional startup software development company located in Santa Cruz, Laguna, Philippines.
 
@@ -19,7 +19,7 @@ The project covers hardware and software planning, networking equipment, network
 
 ---
 
-## 🎯 Learning Objectives
+##  Learning Objectives
 
 Through this project, I was able to:
 
@@ -34,7 +34,7 @@ Through this project, I was able to:
 
 ---
 
-## 🏢 Company Scenario
+##  Company Scenario
 
 **Company Name:** BeneTech Solutions
 **Nature of Business:** Software Development
@@ -55,7 +55,7 @@ BeneTech Solutions requires its complete IT infrastructure to be planned from sc
 
 ---
 
-## 🖥️ Hardware Inventory Summary
+##  Hardware Inventory Summary
 
 The proposed hardware infrastructure includes:
 
@@ -77,7 +77,7 @@ The combination of **13 desktops and 7 laptops provides one primary computer for
 
 ---
 
-## 💻 Software Inventory Summary
+##  Software Inventory Summary
 
 The proposed software environment includes:
 
@@ -99,7 +99,7 @@ These applications provide BeneTech Solutions with the tools required for produc
 
 ---
 
-## 🌐 Enterprise Network Topology
+##  Enterprise Network Topology
 
 The proposed network follows this general connection:
 
@@ -111,11 +111,11 @@ The managed switch distributes network connectivity to the company's server, NAS
 
 ![BeneTech Solutions Enterprise Network Topology](diagrams/BeneTech_Network_Topology.png)
 
-📄 **![BeneTech Solutions Enterprise Network Topology](diagrams/benetech_topology.png)**
+ **![BeneTech Solutions Enterprise Network Topology](diagrams/benetech_topology.png)**
 
 ---
 
-## 🛠️ Technologies and Tools Used
+##  Technologies and Tools Used
 
 The following technologies and tools were used or studied during the project:
 
@@ -133,7 +133,7 @@ The following technologies and tools were used or studied during the project:
 
 ---
 
-## 👨‍💻 System Administration Roles
+##  System Administration Roles
 
 The project also explored four important IT roles:
 
@@ -157,7 +157,7 @@ These professionals work together to maintain reliable, secure, and available IT
 
 ---
 
-## 🔐 Infrastructure Recommendations
+##  Infrastructure Recommendations
 
 The proposed infrastructure for BeneTech Solutions includes:
 
@@ -177,7 +177,7 @@ These recommendations are designed to improve reliability, security, data protec
 
 ---
 
-## 🚧 Challenges Encountered
+##  Challenges Encountered
 
 The most challenging part of this project was designing the enterprise network topology. I had to determine how the internet connection, ISP modem, router, firewall, managed switch, server, NAS, printers, wireless access points, and different company departments should connect logically.
 
@@ -185,7 +185,7 @@ Creating the network diagram helped me better understand how individual networki
 
 ---
 
-## 💭 Reflection
+##  Reflection
 
 This project helped me understand that IT infrastructure requires careful planning before actual deployment. Hardware, software, networking, security, backup, and future expansion must all be considered when designing an infrastructure for an organization.
 
@@ -195,7 +195,7 @@ The experience will help me make better technical decisions and prepare me for f
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```text
 Week02/
@@ -217,13 +217,13 @@ Week02/
 
 ---
 
-## 📚 References
+##  References
 
 References and supporting resources used during the project are organized in the [`references`](references/) directory.
 
 ---
 
-## 📄 Complete Project Document
+##  Complete Project Document
 
 The complete Enterprise Infrastructure Plan containing Parts 1–8 is available here:
 
